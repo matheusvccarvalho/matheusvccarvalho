@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**matheusvccarvalho/matheusvccarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! Eu sou Matheus Carvalho 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Desenvolvedor em formação | Java | Python | Tecnologia
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Estudante de Engenharia de Software na UMC,
+  aprendendo a desenvolver soluções através da programação.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-vinicius-carvalho-26485122a/">
+    LinkedIn
+  </a>
+  •
+  <a href="https://matheusvccarvalho.github.io/Matheus_Carvalho/">
+    Portfólio
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software na UMC.
+- ☕ Estudando Java e Programação Orientada a Objetos.
+- 🐍 Desenvolvendo conhecimentos em Python.
+- 💡 Interessado em desenvolvimento de software e automação.
+- 🚀 Sempre criando projetos para colocar o aprendizado em prática.
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode" />
+</p>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusvccarvalho&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvccarvalho&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+## 📌 Projetos em destaque
+
+Confira meus repositórios para acompanhar meus estudos,
+experimentos e projetos de desenvolvimento.
+
+---
+
+<p align="center">
+  <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i>
+</p>
