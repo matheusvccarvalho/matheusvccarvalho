@@ -43,12 +43,21 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvccarvalho&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
-## 📌 Projetos em destaque
 
-Confira meus repositórios para acompanhar meus estudos,
-experimentos e projetos de desenvolvimento.
+## 🚀 Projetos em destaque
+
+Estou desenvolvendo meus conhecimentos em programação
+por meio de estudos práticos e projetos pessoais.
+
+Em breve, compartilharei aqui meus projetos,
+seus códigos e as tecnologias utilizadas.
 
 ---
+
+<p align="center">
+  <i>Transformando aprendizado em código, um projeto de cada vez.</i>
+</p>
+
 
 <p align="center">
   <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i>
