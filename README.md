@@ -36,12 +36,14 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode" />
 </p>
 
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusvccarvalho&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusvccarvalho&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvccarvalho&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
+
 
 
 ## 🚀 Projetos em destaque
