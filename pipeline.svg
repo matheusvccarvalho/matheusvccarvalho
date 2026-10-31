@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Pipeline de dados do campo à decisão: sensores, API Spring Boot, banco SQL, Power BI e decisão">
+  <title>Do campo à decisão: pipeline de dados animado</title>
+  <rect width="900" height="200" rx="16" fill="#04120c"/>
+
+  <!-- Linha base e fluxo de dados -->
+  <line x1="20" y1="82" x2="880" y2="82" stroke="#10B981" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="1.2s" repeatCount="indefinite"/>
+  </line>
+  <circle cy="82" r="5" fill="#6ee7b7">
+    <animateMotion dur="5s" begin="0s" repeatCount="indefinite" path="M20 0 L880 0"/>
+  </circle>
+  <circle cy="82" r="5" fill="#6ee7b7">
+    <animateMotion dur="5s" begin="1.66s" repeatCount="indefinite" path="M20 0 L880 0"/>
+  </circle>
+  <circle cy="82" r="5" fill="#6ee7b7">
+    <animateMotion dur="5s" begin="3.33s" repeatCount="indefinite" path="M20 0 L880 0"/>
+  </circle>
+
+  <!-- Nós -->
+  <g font-family="monospace" text-anchor="middle">
+    <rect x="15" y="50" width="150" height="64" rx="12" fill="#071B13" stroke="#10B981" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="5s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="90" y="79" font-size="14" fill="#6ee7b7" font-weight="bold">Campo</text>
+    <text x="90" y="98" font-size="10" fill="#a7f3d0">máquinas · sensores</text>
+
+    <rect x="195" y="50" width="150" height="64" rx="12" fill="#071B13" stroke="#10B981" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="5s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="270" y="79" font-size="14" fill="#6ee7b7" font-weight="bold">API</text>
+    <text x="270" y="98" font-size="10" fill="#a7f3d0">Java · Spring Boot</text>
+
+    <rect x="375" y="50" width="150" height="64" rx="12" fill="#071B13" stroke="#10B981" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="450" y="79" font-size="14" fill="#6ee7b7" font-weight="bold">Banco de dados</text>
+    <text x="450" y="98" font-size="10" fill="#a7f3d0">SQL · modelagem</text>
+
+    <rect x="555" y="50" width="150" height="64" rx="12" fill="#071B13" stroke="#10B981" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="5s" begin="3.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="630" y="79" font-size="14" fill="#6ee7b7" font-weight="bold">Power BI</text>
+    <text x="630" y="98" font-size="10" fill="#a7f3d0">KPIs · dashboards</text>
+
+    <rect x="735" y="50" width="150" height="64" rx="12" fill="#087443" stroke="#34d399" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="5s" begin="4.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="810" y="79" font-size="14" fill="#ffffff" font-weight="bold">Decisão</text>
+    <text x="810" y="98" font-size="10" fill="#d1fae5">valor no negócio</text>
+
+    <!-- Camada de automação -->
+    <path d="M270 128 L270 142 L450 142 L450 128" fill="none" stroke="#10B981" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="4 4"/>
+    <text x="360" y="162" font-size="11" fill="#6ee7b7">Python · automação e ETL</text>
+    <text x="450" y="188" font-size="9" fill="#10B981" fill-opacity="0.7">visão de arquitetura-alvo do ecossistema AgroTech</text>
+  </g>
+</svg>
